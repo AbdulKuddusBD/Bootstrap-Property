@@ -30,105 +30,355 @@
 
 ---
 
+## 🌐 লাইভ ডেমো
+
+👉 **[এখানে ক্লিক করে সরাসরি দেখুন](https://abdulkuddusbd.github.io/Bootstrap-Property/)**
+
+---
+
 ## 🔥 ফিচারসমূহ
 
-<table>
-  <tr>
-    <td>🔤 <b>A to Z Organization</b></td>
-    <td>সকল ক্লাস alphabetically সাজানো</td>
-  </tr>
-  <tr>
-    <td>📱 <b>Responsive</b></td>
-    <td>Mobile-first design সহ সকল ব্রেকপয়েন্ট</td>
-  </tr>
-  <tr>
-    <td>🎨 <b>Dark Theme UI</b></td>
-    <td>চোখের জন্য আরামদায়ক ডার্ক ইন্টারফেস</td>
-  </tr>
-  <tr>
-    <td>🔍 <b>Live Search</b></td>
-    <td>ইন্সট্যান্ট ক্লাস সার্চ করার সুবিধা</td>
-  </tr>
-  <tr>
-    <td>📊 <b>Reference Tables</b></td>
-    <td>প্রতিটি ক্লাসের CSS ম্যাপিং</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Live Demos</b></td>
-    <td>প্রতিটি ক্লাসের জন্য রিয়েল-টাইম উদাহরণ</td>
-  </tr>
-  <tr>
-    <td>📝 <b>Sidebar Navigation</b></td>
-    <td>সহজে নেভিগেশনের জন্য A-Z সাইডবার</td>
-  </tr>
-  <tr>
-    <td>📈 <b>Scroll Progress</b></td>
-    <td>পেজের কতটুকু পড়েছেন তার ইন্ডিকেটর</td>
-  </tr>
-</table>
+| ফিচার | বর্ণনা |
+|--------|---------|
+| 🔤 **A to Z Organization** | সকল ক্লাস alphabetically সাজানো |
+| 📱 **Responsive Design** | Mobile-first design সহ সকল ব্রেকপয়েন্ট |
+| 🎨 **Dark Theme UI** | চোখের জন্য আরামদায়ক ডার্ক ইন্টারফেস |
+| 🔍 **Live Search** | ইন্সট্যান্ট ক্লাস সার্চ করার সুবিধা |
+| 📊 **Reference Tables** | প্রতিটি ক্লাসের CSS ম্যাপিং |
+| 🎯 **Live Demos** | প্রতিটি ক্লাসের জন্য রিয়েল-টাইম উদাহরণ |
+| 📝 **Sidebar Navigation** | সহজে নেভিগেশনের জন্য A-Z সাইডবার |
+| 📈 **Scroll Progress Bar** | পেজের কতটুকু পড়েছেন তার ইন্ডিকেটর |
+| 🔗 **Smooth Scrolling** | ক্লিক করলেই নির্দিষ্ট সেকশনে চলে যাবে |
+| 📌 **Active State Highlight** | স্ক্রল অনুযায়ী সাইডবার হাইলাইট |
 
 ---
 
-## 📚 কভার করা বিষয়সমূহ
+## 📚 কভার করা সকল Properties
 
-### 📋 A-Z বিভাগ অনুযায়ী
+### 📋 A-Z বিভাগ অনুযায়ী সম্পূর্ণ লিস্ট
 
-| বর্ণ | ক্লাস সমূহ |
-|------|-----------|
-| **A** | `align-*`, `alert-*`, `accordion-*`, `aspect-ratio`, `active` |
-| **B** | `badge-*`, `bg-*`, `border-*`, `btn-*`, `breadcrumb-*` |
-| **C** | `col-*`, `container-*`, `card-*`, `carousel-*`, `collapse` |
-| **D** | `d-*` (display), `dropdown-*` |
-| **F** | `flex-*`, `float-*`, `form-*`, `fs-*`, `fw-*` |
-| **G** | `gap-*`, `g-*` (gutter) |
-| **H** | `h-*` (height) |
-| **J** | `justify-content-*` |
-| **L** | `link-*`, `lh-*` (line-height) |
-| **M** | `m-*` (margin), `modal-*` |
-| **N** | `nav-*`, `navbar-*` |
-| **O** | `opacity-*`, `order-*`, `overflow-*` |
-| **P** | `p-*` (padding), `pagination-*`, `position-*`, `progress-*` |
-| **R** | `rounded-*`, `row-*` |
-| **S** | `shadow-*`, `spinner-*`, `sticky-*` |
-| **T** | `text-*`, `table-*`, `toast-*` |
-| **V** | `visible/invisible`, `visually-hidden`, `vertical-align` |
-| **W** | `w-*` (width) |
-| **Z** | `z-*` (z-index) |
+#### 🔤 A - Alignment & Alert
+| ক্লাস | কাজ |
+|--------|------|
+| `align-items-*` | Flex container এ items উল্লম্বভাবে সাজানো |
+| `align-self-*` | নির্দিষ্ট item এর নিজস্ব alignment |
+| `align-content-*` | Multi-line flex container এর alignment |
+| `align-baseline/top/middle/bottom` | Inline elements এর vertical alignment |
+| `alert-*` | Notification/বার্তা দেখানো |
+| `accordion-*` | Collapsible FAQ sections |
+| `ratio-*` | Aspect ratio (1x1, 4x3, 16x9, 21x9) |
+| `active` | Current/selected state |
 
-### 🎁 বোনাস
+#### 🔤 B - Background, Border, Button
+| ক্লাস | কাজ |
+|--------|------|
+| `badge` + `bg-*` | Notification badges |
+| `bg-*` | Background colors (8 colors + transparent + gradient) |
+| `bg-opacity-*` | Background opacity (10, 25, 50, 75, 100) |
+| `border` / `border-*` | Border add/remove এবং color |
+| `border-1` থেকে `border-5` | Border thickness |
+| `btn` / `btn-*` | Buttons (8 variants + outline + sm/lg) |
+| `btn-group` / `btn-toolbar` | Button groups |
+| `btn-close` | Close button |
+| `breadcrumb-*` | Navigation trail |
 
-- 📏 **Bootstrap 5 Breakpoints** (sm, md, lg, xl, xxl)
-- 📐 **Spacing Scale** (0, 1, 2, 3, 4, 5)
-- 🎨 **Z-Index Scale** (Dropdown to Tooltip)
+#### 🔤 C - Container, Column, Card, Carousel
+| ক্লাস | কাজ |
+|--------|------|
+| `col-*` (1-12) | Grid columns |
+| `col-sm/md/lg/xl/xxl-*` | Responsive columns |
+| `col-auto` | Auto-width columns |
+| `container` / `container-*` | Fixed-width containers |
+| `container-fluid` | Full-width container |
+| `card-*` | Card components (header, body, footer, image) |
+| `carousel-*` | Image/content slider |
+| `carousel-fade` | Fade transition |
+| `collapse` | Show/hide content |
+
+#### 🔤 D - Display, Dropdown
+| ক্লাস | কাজ |
+|--------|------|
+| `d-none` / `d-block` / `d-flex` / `d-grid` | Display properties |
+| `d-inline` / `d-inline-block` / `d-inline-flex` | Inline display |
+| `d-table` / `d-table-cell` / `d-table-row` | Table display |
+| `dropdown-*` | Dropdown menus |
+| `dropup` / `dropend` / `dropstart` | Dropdown directions |
+
+#### 🔤 F - Flex, Float, Form, Font
+| ক্লাস | কাজ |
+|--------|------|
+| `flex-row` / `flex-column` | Flex direction |
+| `flex-wrap` / `flex-nowrap` | Flex wrapping |
+| `flex-grow-*` / `flex-shrink-*` | Flex grow/shrink |
+| `flex-fill` | Fill available space |
+| `float-start` / `float-end` / `float-none` | Float elements |
+| `clearfix` | Clear floats |
+| `form-control` / `form-select` | Form inputs |
+| `form-label` / `form-text` | Form labels and help text |
+| `form-check` / `form-switch` | Checkboxes और toggles |
+| `form-floating` | Floating labels |
+| `input-group` / `input-group-text` | Input groups |
+| `is-valid` / `is-invalid` | Validation states |
+| `fs-1` থেকে `fs-6` | Font sizes |
+| `fw-bold/lighter/normal` | Font weights |
+| `fst-italic` / `fst-normal` | Font style |
+
+#### 🔤 G - Gap, Gutter
+| ক্লাস | কাজ |
+|--------|------|
+| `gap-0` থেকে `gap-5` | Flex/Grid gaps |
+| `gap-x-*` / `gap-y-*` | Horizontal/Vertical gaps |
+| `g-0` থেকে `g-5` | Row gutters |
+| `gx-*` / `gy-*` | Horizontal/Vertical gutters |
+| `row-cols-*` | Columns per row |
+
+#### 🔤 H - Height
+| ক্লাস | কাজ |
+|--------|------|
+| `h-25` / `h-50` / `h-75` / `h-100` | Height percentages |
+| `h-auto` | Auto height |
+| `mh-100` | Max height |
+| `min-vh-100` | Min viewport height |
+| `vh-100` | Full viewport height |
+
+#### 🔤 J - Justify Content
+| ক্লাস | কাজ |
+|--------|------|
+| `justify-content-start` | Items বামে |
+| `justify-content-center` | Items মাঝে |
+| `justify-content-end` | Items ডানে |
+| `justify-content-between` | Space between |
+| `justify-content-around` | Space around |
+| `justify-content-evenly` | Equal spacing |
+
+#### 🔤 L - Link, Line Height
+| ক্লাস | কাজ |
+|--------|------|
+| `link-primary` / `link-success` | Link colors |
+| `link-danger` / `link-warning` | Link colors |
+| `link-underline-opacity-*` | Underline opacity |
+| `lh-1` / `lh-sm` / `lh-base` / `lh-lg` | Line heights |
+
+#### 🔤 M - Margin, Modal
+| ক্লাস | কাজ |
+|--------|------|
+| `m-0` থেকে `m-5` | Margin (সব দিক) |
+| `mt-*` / `mb-*` / `ms-*` / `me-*` | Margin (নির্দিষ্ট দিক) |
+| `mx-*` / `my-*` | Margin X/Y |
+| `m-auto` / `mx-auto` | Auto margin |
+| `modal-*` | Modal dialogs |
+| `modal-dialog-centered` | Centered modal |
+| `modal-fullscreen` | Fullscreen modal |
+
+#### 🔤 N - Nav, Navbar
+| ক্লাস | কাজ |
+|--------|------|
+| `nav` / `nav-item` / `nav-link` | Navigation |
+| `nav-tabs` / `nav-pills` | Tab/Pill navigation |
+| `nav-fill` / `nav-justified` | Fill/Justify nav |
+| `tab-content` / `tab-pane` | Tab content |
+| `navbar-*` | Navigation bar |
+| `navbar-expand-*` | Responsive expand |
+| `navbar-dark` / `navbar-light` | Color schemes |
+| `fixed-top` / `sticky-top` | Positioning |
+
+#### 🔤 O - Opacity, Order, Overflow
+| ক্লাস | কাজ |
+|--------|------|
+| `opacity-0/25/50/75/100` | Element opacity |
+| `order-first` / `order-last` | Flex order |
+| `order-0` থেকে `order-5` | Specific order |
+| `overflow-auto` | Auto scroll |
+| `overflow-hidden` | Hide overflow |
+| `overflow-scroll` | Always scroll |
+| `overflow-x/y-auto` | Axis-specific overflow |
+
+#### 🔤 P - Padding, Pagination, Position, Progress
+| ক্লাস | কাজ |
+|--------|------|
+| `p-0` থেকে `p-5` | Padding (সব দিক) |
+| `pt-*` / `pb-*` / `ps-*` / `pe-*` | Padding (নির্দিষ্ট দিক) |
+| `px-*` / `py-*` | Padding X/Y |
+| `pagination-*` | Page navigation |
+| `page-item` / `page-link` | Pagination items |
+| `position-relative/absolute/fixed/sticky` | Positioning |
+| `top-*` / `bottom-*` / `start-*` / `end-*` | Position offsets |
+| `translate-middle` / `-x` / `-y` | Centering |
+| `progress` / `progress-bar` | Progress bars |
+| `progress-bar-striped` | Striped progress |
+| `progress-bar-animated` | Animated stripes |
+
+#### 🔤 R - Rounded, Row
+| ক্লাস | কাজ |
+|--------|------|
+| `rounded` / `rounded-0` থেকে `rounded-5` | Border radius |
+| `rounded-circle` | গোলাকার |
+| `rounded-pill` | পিল আকৃতি |
+| `rounded-top/bottom/start/end` | নির্দিষ্ট দিক |
+| `row` | Grid row |
+| `row-cols-1` থেকে `row-cols-6` | Columns per row |
+
+#### 🔤 S - Shadow, Spinner, Sticky
+| ক্লাস | কাজ |
+|--------|------|
+| `shadow-none` / `shadow-sm` / `shadow` / `shadow-lg` | Box shadows |
+| `spinner-border` / `spinner-grow` | Loading spinners |
+| `spinner-border-sm` / `spinner-grow-sm` | Small spinners |
+| `sticky-top` / `sticky-bottom` | Sticky positioning |
+| `sticky-sm/md/lg-top` | Responsive sticky |
+
+#### 🔤 T - Text, Table, Toast
+| ক্লাস | কাজ |
+|--------|------|
+| `text-start` / `text-center` / `text-end` | Text alignment |
+| `text-primary` / `text-success` / `text-danger` | Text colors |
+| `text-warning` / `text-info` / `text-dark` / `text-light` | Text colors |
+| `text-muted` / `text-white` / `text-body` | Text colors |
+| `text-uppercase` / `text-lowercase` / `text-capitalize` | Text transform |
+| `text-nowrap` / `text-truncate` / `text-break` | Text overflow |
+| `text-decoration-none/underline/line-through` | Text decoration |
+| `text-opacity-*` | Text color opacity |
+| `table` / `table-striped` / `table-hover` | Table styles |
+| `table-bordered` / `table-borderless` | Table borders |
+| `table-responsive` | Responsive table |
+| `table-dark` / `table-sm` | Dark/Compact table |
+| `toast` / `toast-header` / `toast-body` | Toast notifications |
+
+#### 🔤 V - Visibility, Vertical Align
+| ক্লাস | কাজ |
+|--------|------|
+| `visible` | Element দৃশ্যমান |
+| `invisible` | Element অদৃশ্য (জায়গা রাখে) |
+| `visually-hidden` | শুধু screen reader এর জন্য |
+| `visually-hidden-focusable` | Focus করলে দৃশ্যমান |
+| `align-baseline/top/middle/bottom` | Vertical align |
+| `align-text-top` / `align-text-bottom` | Text-relative align |
+
+#### 🔤 W - Width
+| ক্লাস | কাজ |
+|--------|------|
+| `w-25` / `w-50` / `w-75` / `w-100` | Width percentages |
+| `w-auto` | Auto width |
+| `mw-100` | Max width |
+| `vw-100` | Viewport width |
+| `min-vw-100` | Min viewport width |
+
+#### 🔤 Z - Z-Index
+| ক্লাস | কাজ |
+|--------|------|
+| `z-n1` | z-index: -1 |
+| `z-0` | z-index: 0 |
+| `z-1` | z-index: 1 |
+| `z-2` | z-index: 2 |
+| `z-3` | z-index: 3 |
 
 ---
 
-## 🖥️ স্ক্রিনশট
+## 📏 Bootstrap 5 Breakpoints
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Desktop View</b></td>
-      <td><b>Mobile View</b></td>
-    </tr>
-    <tr>
-      <td>Sidebar + Main Content</td>
-      <td>Single Column Layout</td>
-    </tr>
-  </table>
+| Breakpoint | Class Prefix | Screen Width | ডিভাইস |
+|------------|-------------|--------------|---------|
+| Extra small | (none) | < 576px | 📱 Mobile |
+| Small | `sm` | ≥ 576px | 📱 Large Mobile |
+| Medium | `md` | ≥ 768px | 📱 Tablet |
+| Large | `lg` | ≥ 992px | 💻 Desktop |
+| Extra large | `xl` | ≥ 1200px | 🖥️ Large Desktop |
+| Extra extra large | `xxl` | ≥ 1400px | 🖥️ Wide Screen |
+
+---
+
+## 📐 Spacing Scale
+
+| Value | Size | Rem | উদাহরণ |
+|-------|------|-----|--------|
+| `0` | 0px | 0 | `p-0` = padding 0 |
+| `1` | 4px | 0.25rem | `m-1` = margin 4px |
+| `2` | 8px | 0.5rem | `gap-2` = gap 8px |
+| `3` | 16px | 1rem | `p-3` = padding 16px |
+| `4` | 24px | 1.5rem | `m-4` = margin 24px |
+| `5` | 48px | 3rem | `my-5` = 48px top-bottom |
+
+---
+
+## 🎨 Z-Index Scale
+
+| Component | Z-Index Value |
+|-----------|---------------|
+| Dropdown | 1000 |
+| Sticky | 1020 |
+| Fixed | 1030 |
+| Modal Backdrop | 1040 |
+| Offcanvas | 1045 |
+| Modal | 1055 |
+| Popover | 1070 |
+| Tooltip | 1080 |
+
+---
+
+## 🔥 গুরুত্বপূর্ণ ক্লাস কম্বিনেশন
+
+### 📌 সবচেয়ে বেশি ব্যবহৃত Patterns
+
+```html
+<!-- Layout Structure -->
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-6 col-lg-4">
+      <!-- Content -->
+    </div>
+  </div>
 </div>
 
----
+<!-- Flexbox Center Everything -->
+<div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+  <h1>Perfectly Centered</h1>
+</div>
 
-## 🚀 কিভাবে ব্যবহার করবেন
+<!-- Navbar Style Header -->
+<div class="d-flex justify-content-between align-items-center p-3">
+  <span class="fw-bold fs-4">Logo</span>
+  <nav class="d-flex gap-3">
+    <a href="#" class="text-decoration-none">Home</a>
+    <a href="#" class="text-decoration-none">About</a>
+    <a href="#" class="text-decoration-none">Contact</a>
+  </nav>
+</div>
 
-### ১. সরাসরি ব্রাউজারে
+<!-- Card Grid -->
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+  <div class="col">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title">Title</h5>
+        <p class="card-text text-muted">Description</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-```bash
-# রিপোজিটরি ক্লোন করুন
-git clone https://github.com/AbdulKuddusBD/Bootstrap-Property.git
+<!-- Responsive Visibility -->
+<div class="d-none d-md-block">
+  শুধু ট্যাবলেট ও ডেস্কটপে দেখা যাবে
+</div>
+<div class="d-block d-md-none">
+  শুধু মোবাইলে দেখা যাবে
+</div>
 
-# ফোল্ডারে যান
-cd Bootstrap-Property
+<!-- Notification Badge -->
+<button class="btn btn-primary position-relative">
+  Inbox
+  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+    5+
+  </span>
+</button>
 
-# index.html ফাইলটি ব্রাউজারে ওপেন করুন
+<!-- Loading Button -->
+<button class="btn btn-primary" disabled>
+  <span class="spinner-border spinner-border-sm me-2"></span>
+  Loading...
+</button>
+
+<!-- Truncate Long Text -->
+<p class="text-truncate" style="max-width: 200px;">
+  অনেক লম্বা একটা টেক্সট যা কেটে যাবে ডট ডট ডট...
+</p>
