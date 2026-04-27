@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Bootstrap Version](https://img.shields.io/badge/Bootstrap-5.3.3-purple.svg)](https://getbootstrap.com/docs/5.3/)
-[![Language](https://img.shields.io/badge/ভাষা-বাংলা-green.svg)]()
+[![Language](https://img.shields.io/badge/Bangla-Language-green.svg)]()
 
 <div align="center">
   <img src="https://img.shields.io/badge/A_থেকে_Z-সকল_Properties-orange?style=for-the-badge" alt="A to Z"/>
@@ -58,6 +58,7 @@
 ### 📋 A-Z বিভাগ অনুযায়ী সম্পূর্ণ লিস্ট
 
 #### 🔤 A - Alignment & Alert
+
 | ক্লাস | কাজ |
 |--------|------|
 | `align-items-*` | Flex container এ items উল্লম্বভাবে সাজানো |
@@ -70,6 +71,7 @@
 | `active` | Current/selected state |
 
 #### 🔤 B - Background, Border, Button
+
 | ক্লাস | কাজ |
 |--------|------|
 | `badge` + `bg-*` | Notification badges |
@@ -83,6 +85,7 @@
 | `breadcrumb-*` | Navigation trail |
 
 #### 🔤 C - Container, Column, Card, Carousel
+
 | ক্লাস | কাজ |
 |--------|------|
 | `col-*` (1-12) | Grid columns |
@@ -96,6 +99,7 @@
 | `collapse` | Show/hide content |
 
 #### 🔤 D - Display, Dropdown
+
 | ক্লাস | কাজ |
 |--------|------|
 | `d-none` / `d-block` / `d-flex` / `d-grid` | Display properties |
@@ -105,6 +109,7 @@
 | `dropup` / `dropend` / `dropstart` | Dropdown directions |
 
 #### 🔤 F - Flex, Float, Form, Font
+
 | ক্লাস | কাজ |
 |--------|------|
 | `flex-row` / `flex-column` | Flex direction |
@@ -115,7 +120,7 @@
 | `clearfix` | Clear floats |
 | `form-control` / `form-select` | Form inputs |
 | `form-label` / `form-text` | Form labels and help text |
-| `form-check` / `form-switch` | Checkboxes और toggles |
+| `form-check` / `form-switch` | Checkboxes এবং toggles |
 | `form-floating` | Floating labels |
 | `input-group` / `input-group-text` | Input groups |
 | `is-valid` / `is-invalid` | Validation states |
@@ -124,6 +129,7 @@
 | `fst-italic` / `fst-normal` | Font style |
 
 #### 🔤 G - Gap, Gutter
+
 | ক্লাস | কাজ |
 |--------|------|
 | `gap-0` থেকে `gap-5` | Flex/Grid gaps |
@@ -133,6 +139,7 @@
 | `row-cols-*` | Columns per row |
 
 #### 🔤 H - Height
+
 | ক্লাস | কাজ |
 |--------|------|
 | `h-25` / `h-50` / `h-75` / `h-100` | Height percentages |
@@ -142,6 +149,7 @@
 | `vh-100` | Full viewport height |
 
 #### 🔤 J - Justify Content
+
 | ক্লাস | কাজ |
 |--------|------|
 | `justify-content-start` | Items বামে |
@@ -152,6 +160,7 @@
 | `justify-content-evenly` | Equal spacing |
 
 #### 🔤 L - Link, Line Height
+
 | ক্লাস | কাজ |
 |--------|------|
 | `link-primary` / `link-success` | Link colors |
@@ -160,6 +169,7 @@
 | `lh-1` / `lh-sm` / `lh-base` / `lh-lg` | Line heights |
 
 #### 🔤 M - Margin, Modal
+
 | ক্লাস | কাজ |
 |--------|------|
 | `m-0` থেকে `m-5` | Margin (সব দিক) |
@@ -171,6 +181,7 @@
 | `modal-fullscreen` | Fullscreen modal |
 
 #### 🔤 N - Nav, Navbar
+
 | ক্লাস | কাজ |
 |--------|------|
 | `nav` / `nav-item` / `nav-link` | Navigation |
@@ -183,6 +194,7 @@
 | `fixed-top` / `sticky-top` | Positioning |
 
 #### 🔤 O - Opacity, Order, Overflow
+
 | ক্লাস | কাজ |
 |--------|------|
 | `opacity-0/25/50/75/100` | Element opacity |
@@ -194,6 +206,7 @@
 | `overflow-x/y-auto` | Axis-specific overflow |
 
 #### 🔤 P - Padding, Pagination, Position, Progress
+
 | ক্লাস | কাজ |
 |--------|------|
 | `p-0` থেকে `p-5` | Padding (সব দিক) |
@@ -209,6 +222,7 @@
 | `progress-bar-animated` | Animated stripes |
 
 #### 🔤 R - Rounded, Row
+
 | ক্লাস | কাজ |
 |--------|------|
 | `rounded` / `rounded-0` থেকে `rounded-5` | Border radius |
@@ -219,6 +233,7 @@
 | `row-cols-1` থেকে `row-cols-6` | Columns per row |
 
 #### 🔤 S - Shadow, Spinner, Sticky
+
 | ক্লাস | কাজ |
 |--------|------|
 | `shadow-none` / `shadow-sm` / `shadow` / `shadow-lg` | Box shadows |
@@ -228,6 +243,7 @@
 | `sticky-sm/md/lg-top` | Responsive sticky |
 
 #### 🔤 T - Text, Table, Toast
+
 | ক্লাস | কাজ |
 |--------|------|
 | `text-start` / `text-center` / `text-end` | Text alignment |
@@ -245,6 +261,7 @@
 | `toast` / `toast-header` / `toast-body` | Toast notifications |
 
 #### 🔤 V - Visibility, Vertical Align
+
 | ক্লাস | কাজ |
 |--------|------|
 | `visible` | Element দৃশ্যমান |
@@ -255,6 +272,7 @@
 | `align-text-top` / `align-text-bottom` | Text-relative align |
 
 #### 🔤 W - Width
+
 | ক্লাস | কাজ |
 |--------|------|
 | `w-25` / `w-50` / `w-75` / `w-100` | Width percentages |
@@ -264,6 +282,7 @@
 | `min-vw-100` | Min viewport width |
 
 #### 🔤 Z - Z-Index
+
 | ক্লাস | কাজ |
 |--------|------|
 | `z-n1` | z-index: -1 |
@@ -382,3 +401,271 @@
 <p class="text-truncate" style="max-width: 200px;">
   অনেক লম্বা একটা টেক্সট যা কেটে যাবে ডট ডট ডট...
 </p>
+```
+
+---
+
+## 🚀 কিভাবে ব্যবহার করবেন
+
+### পদ্ধতি ১: সরাসরি ক্লোন করে
+
+```bash
+# রিপোজিটরি ক্লোন করুন
+git clone https://github.com/AbdulKuddusBD/Bootstrap-Property.git
+
+# ফোল্ডারে যান
+cd Bootstrap-Property
+
+# index.html ফাইলটি ব্রাউজারে ওপেন করুন
+```
+
+### পদ্ধতি ২: VS Code Live Server
+
+```bash
+# VS Code ওপেন করুন
+# Live Server এক্সটেনশন ইন্সটল করুন (ritwickdey.LiveServer)
+# index.html ফাইলে রাইট ক্লিক করুন
+# "Open with Live Server" সিলেক্ট করুন
+```
+
+### পদ্ধতি ৩: GitHub Pages (লাইভ)
+
+```
+https://abdulkuddusbd.github.io/Bootstrap-Property/
+```
+
+---
+
+## 💻 টেকনোলজি স্ট্যাক
+
+| প্রযুক্তি | ভার্সন | ব্যবহার |
+|-----------|--------|---------|
+| **HTML5** | - | স্ট্রাকচার |
+| **CSS3** | - | কাস্টম স্টাইলিং |
+| **Bootstrap** | 5.3.3 | CSS Framework |
+| **Bootstrap Icons** | 1.11.3 | আইকন লাইব্রেরি |
+| **JavaScript** | ES6+ | ইন্টার‍্যাক্টিভিটি |
+| **Google Fonts** | - | Sora + JetBrains Mono |
+
+---
+
+## 📂 ফাইল স্ট্রাকচার
+
+```
+Bootstrap-Property/
+│
+├── index.html              # মূল HTML ফাইল (সকল কন্টেন্ট সহ)
+├── README.md               # প্রোজেক্ট ডকুমেন্টেশন (এই ফাইল)
+├── LICENSE                 # MIT লাইসেন্স ফাইল
+│
+└── assets/                 # (ঐচ্ছিক) ইমেজ/অন্যান্য ফাইল
+    └── screenshot.png      # প্রোজেক্ট স্ক্রিনশট
+```
+
+---
+
+## 🖥️ স্ক্রিনশট
+
+### Desktop View
+- বাম পাশে A-Z সাইডবার নেভিগেশন
+- ডান পাশে বিস্তারিত কন্টেন্ট
+- প্রতিটি ক্লাসের জন্য লাইভ ডেমো বক্স
+- টপে স্ক্রল প্রগ্রেস বার
+
+### Mobile View
+- ফুল-উইডথ সিঙ্গেল কলাম লেআউট
+- রেস্পন্সিভ টেবিল
+- টাচ-ফ্রেন্ডলি ডেমো
+
+---
+
+## 🤝 কন্ট্রিবিউট করুন
+
+আপনি চাইলে এই প্রোজেক্টে কন্ট্রিবিউট করতে পারেন:
+
+### কিভাবে কন্ট্রিবিউট করবেন
+
+1. **🍴 ফর্ক করুন**
+```bash
+# GitHub এ গিয়ে Fork বাটনে ক্লিক করুন
+```
+
+2. **🌿 ব্রাঞ্চ তৈরি করুন**
+```bash
+git checkout -b feature/amazing-feature
+```
+
+3. **✍️ পরিবর্তন করুন এবং কমিট করুন**
+```bash
+git add .
+git commit -m "✨ নতুন ফিচার যোগ করা হয়েছে"
+```
+
+4. **📤 পুশ করুন**
+```bash
+git push origin feature/amazing-feature
+```
+
+5. **📥 Pull Request তৈরি করুন**
+
+### কি ধরনের কন্ট্রিবিউশন করতে পারেন
+
+| ধরন | বর্ণনা |
+|------|---------|
+| 🐛 **বাগ ফিক্স** | কোডের কোনো ভুল থাকলে ঠিক করা |
+| 📝 **ডকুমেন্টেশন** | README বা কমেন্ট ইম্প্রুভ করা |
+| 🎨 **UI/UX** | ডিজাইন বা ইউজার এক্সপেরিয়েন্স ভালো করা |
+| 🌐 **নতুন ক্লাস** | নতুন কোনো Bootstrap ক্লাস যোগ করা |
+| 📱 **রেস্পন্সিভনেস** | মোবাইল/ট্যাবলেট ভিউ ঠিক করা |
+| ⚡ **পারফরম্যান্স** | কোড অপ্টিমাইজ করা |
+| 🔤 **অনুবাদ** | ইংরেজি থেকে বাংলা বা অন্য ভাষায় অনুবাদ |
+
+---
+
+## 📝 TODO - ভবিষ্যৎ পরিকল্পনা
+
+- [ ] **Bootstrap Icons** এর A-Z রেফারেন্স যোগ করা
+- [ ] **JavaScript Components** এর বিস্তারিত ডকুমেন্টেশন
+- [ ] **Interactive Playground** যেখানে কোড লিখে লাইভ দেখা যাবে
+- [ ] **PDF Version** ডাউনলোড অপশন
+- [ ] **VS Code Extension** তৈরি ও পাবলিশ
+- [ ] **Video Tutorials** এর লিংক যোগ করা
+- [ ] **Dark/Light Mode** টগল
+- [ ] **Copy to Clipboard** ফিচার (ক্লাস নাম কপি করা)
+- [ ] **Quiz Section** যোগ করা (শেখার টেস্ট)
+- [ ] **Cheat Sheet** প্রিন্টেবল ভার্সন
+
+---
+
+## 👨‍💻 ডেভেলপার
+
+| | |
+|---|---|
+| **নাম** | Abdul Kuddus |
+| **পেশা** | Web Developer |
+| **লোকেশন** | Mymensingh, Bangladesh |
+| **বিশেষজ্ঞতা** | Web Design & Development |
+
+### 🔗 সোশ্যাল মিডিয়া
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulKuddusBD)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abdulkuddusbd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@abdulkuddusbd)
+
+---
+
+## 📊 প্রোজেক্ট স্ট্যাটাস
+
+| মেট্রিক | ভ্যালু |
+|---------|--------|
+| **টোটাল ক্লাস কভার** | 200+ |
+| **বিভাগ (A-Z)** | 26 টি |
+| **লাইভ ডেমো** | 30+ |
+| **রেফারেন্স টেবিল** | 50+ |
+| **কোড এক্সাম্পল** | 100+ |
+
+---
+
+## ⭐ সাপোর্ট ও ফিডব্যাক
+
+যদি এই প্রোজেক্টটি আপনার কাজে লেগে থাকে, তাহলে:
+
+| অ্যাকশন | কিভাবে |
+|---------|--------|
+| ⭐ **স্টার দিন** | GitHub রিপোজিটরিতে স্টার ক্লিক করুন |
+| 🔗 **শেয়ার করুন** | সোশ্যাল মিডিয়ায় শেয়ার করুন |
+| 👥 **ফলো করুন** | GitHub প্রোফাইল ফলো করুন |
+| 💬 **ফিডব্যাক দিন** | Issue তৈরি করে মতামত জানান |
+| 🐛 **বাগ রিপোর্ট** | Issue ট্যাবে বাগ রিপোর্ট করুন |
+
+---
+
+## ❓ সহায়তা প্রয়োজন?
+
+যদি কোনো সমস্যা হয় বা প্রশ্ন থাকে:
+
+1. **📖 প্রথমে এই README পড়ুন**
+2. **🔍 Issue ট্যাব চেক করুন** (হয়তো উত্তর আগেই দেওয়া আছে)
+3. **💬 নতুন Issue তৈরি করুন** বিস্তারিত বর্ণনা সহ
+4. **📧 ইমেইল করুন** (প্রোফাইলে দেওয়া ইমেইলে)
+
+---
+
+## 📄 লাইসেন্স
+
+```
+MIT License
+
+Copyright (c) 2024 Abdul Kuddus
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 🙏 স্বীকৃতি ও কৃতজ্ঞতা
+
+| | |
+|---|---|
+| **Bootstrap Team** | অসাধারণ CSS ফ্রেমওয়ার্কের জন্য |
+| **Bootstrap Icons** | ফ্রি আইকন লাইব্রেরির জন্য |
+| **Google Fonts** | সুন্দর ফন্টের জন্য |
+| **Open Source Community** | অনুপ্রেরণা ও সাপোর্টের জন্য |
+
+---
+
+## 🎓 শেখার রিসোর্স
+
+### Bootstrap শেখার জন্য আরও রিসোর্স
+
+| রিসোর্স | লিংক |
+|---------|------|
+| 📘 **Bootstrap Official Docs** | [getbootstrap.com](https://getbootstrap.com/docs/5.3/) |
+| 📗 **Bootstrap Icons** | [icons.getbootstrap.com](https://icons.getbootstrap.com/) |
+| 📙 **W3Schools Bootstrap** | [w3schools.com/bootstrap5](https://www.w3schools.com/bootstrap5/) |
+| 📕 **MDN Web Docs** | [developer.mozilla.org](https://developer.mozilla.org/) |
+
+---
+
+<div align="center">
+
+---
+
+### 🇧🇩 বাংলায় Bootstrap শেখার সবচেয়ে বড় ও বিস্তারিত রিসোর্স
+
+**🐛 Bug Report?** → [Issue Create করুন](https://github.com/AbdulKuddusBD/Bootstrap-Property/issues)
+
+**💡 Feature Request?** → [Issue Create করুন](https://github.com/AbdulKuddusBD/Bootstrap-Property/issues)
+
+**⭐ Project ভালো লাগলে Star দিন!**
+
+<br>
+
+---
+
+<sub>© 2024 Abdul Kuddus • Made with ❤️ in Bangladesh 🇧🇩</sub>
+
+<br>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdulKuddusBD.Bootstrap-Property)
+![GitHub Stars](https://img.shields.io/github/stars/AbdulKuddusBD/Bootstrap-Property?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/AbdulKuddusBD/Bootstrap-Property?style=social)
+
+</div>
+```
